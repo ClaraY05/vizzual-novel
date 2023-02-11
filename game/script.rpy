@@ -12,7 +12,11 @@ define g = Character("Goopitha")
 define l = Character("Lone Loan Dolphin")
 define p = Character("Pelota")
 
+default smallpizza = True # used for choosing small or large pizzas when getting pizza with joejoe
+
 image side sigma = "sigmaside.png"
+
+image sigma = At('sigma.png', sprite_highlight("sigma.png"))
 
 transform jumper: #adjust the yoffset as necessary to your preference
     ease .06 yoffset 24 
