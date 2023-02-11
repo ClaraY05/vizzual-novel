@@ -223,7 +223,7 @@ label coolguyno:
     mc "(I decided that the best way to get back at him was to not think about him at all, so that way he doesn't even get to be in my mind.)"
     mc "(Before I step out of the hospital room, I turn around to take a good look at what I called home up until now.)"
     mc "(Now that I see it from here, it looks incredibly plain. The walls and ceiling are a light beige color, while the floor is a strange tiled pattern that connects with the hallway. And the white curtains that I rarely move look like they've been taken straight out of a fabric store.)"
-    mc "(Strangely enough, I feel nostalgic. This cookie-cutter room that could be put anywhere and still called a "hospital room" makes me feel at home. Not a single part of it is unique. None of it stands out, and I would confuse it with the room next to mine if they were mixed around.)"
+    mc "(Strangely enough, I feel nostalgic. This cookie-cutter room that could be put anywhere and still called a \"hospital room\" makes me feel at home. Not a single part of it is unique. None of it stands out, and I would confuse it with the room next to mine if they were mixed around.)"
     mc "(But I just can't leave it behind. I've called this place home for years, and now I have to leave it? I don't want that.)"
     mc "(I want to stay in the lands of familiarity, keeping change at bay for the rest of my life.)"
     mc "(But I must move on. I can't stay like this forever.)"

@@ -4,7 +4,7 @@
 # name of the character.
 
 define j = Character("Joe Joe")
-define s = Character("Sigma", callback = name_callback, cb_name = "Sigma") # 
+define s = Character("Sigma") #, callback = name_callback, cb_name = "Sigma"
 define s2 = Character("Sigma", image="sigma")
 define temp = Character("Secretary")
 define mc = Character("[name]") # , callback = name_callback, cb_name = "[name]"
